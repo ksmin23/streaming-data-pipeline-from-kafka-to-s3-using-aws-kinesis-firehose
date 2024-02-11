@@ -3,10 +3,10 @@
 This repository contains a set of example projects to continuously load data from an Amazon Managed Streaming for Apache Kafka (Amazon MSK) to Amazon Simple Storage Service (Amazon S3).
 We use Amazon Kinesis Data Firehose—an extract, transform, and load (ETL) service—to read data from a Kafka topic, transform the records, and write them to an Amazon S3 destination.
 
-| Example | Description | Tags |
-|---------|-------------|------|
-| [msk-firehose-s3-stack](./msk-firehose-s3-stack/) | ![msk-firehose-s3-arch](./msk-firehose-s3-stack/msk-firehose-s3-arch.svg) | msk, kinesis firehose, s3, bastion host |
-| [msk-serverless-firehose-s3-stack](./msk-serverless-firehose-s3-stack/) | ![msk-serverless-firehose-s3-arch](./msk-serverless-firehose-s3-stack/msk-serverless-firehose-s3-arch.svg) | msk serverless, kinesis firehose, s3, bastion host |
+| Example | Architecture |
+|---------|--------------|
+| [msk-firehose-s3-stack](./msk-firehose-s3-stack/) | ![msk-firehose-s3-arch](./msk-firehose-s3-stack/msk-firehose-s3-arch.svg) |
+| [msk-serverless-firehose-s3-stack](./msk-serverless-firehose-s3-stack/) | ![msk-serverless-firehose-s3-arch](./msk-serverless-firehose-s3-stack/msk-serverless-firehose-s3-arch.svg) |
 
 Enjoy!
 
