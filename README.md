@@ -15,3 +15,5 @@ Enjoy!
 
  * [Amazon MSK Introduces Managed Data Delivery from Apache Kafka to Your Data Lake (2023-09-27)](https://aws.amazon.com/blogs/aws/amazon-msk-introduces-managed-data-delivery-from-apache-kafka-to-your-data-lake/)
    ![amazon-msk-managed-delivery-to-s3](https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2023/09/14/diagram-msk-v1.png)
+ * [Amazon MSK integration with Kinesis Data Firehose](https://docs.aws.amazon.com/msk/latest/developerguide/integrations-kinesis-data-firehose.html)
+ * [Amazon MSK Labs](https://catalog.workshops.aws/msk-labs/)
