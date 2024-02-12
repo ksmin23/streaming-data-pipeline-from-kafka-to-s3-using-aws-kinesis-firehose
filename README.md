@@ -17,3 +17,4 @@ Enjoy!
    ![amazon-msk-managed-delivery-to-s3](https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2023/09/14/diagram-msk-v1.png)
  * [Amazon MSK integration with Kinesis Data Firehose](https://docs.aws.amazon.com/msk/latest/developerguide/integrations-kinesis-data-firehose.html)
  * [Amazon MSK Labs](https://catalog.workshops.aws/msk-labs/)
+   * [Delivery to Amazon S3 using Kinesis Data Firehose](https://catalog.workshops.aws/msk-labs/en-US/amazon-kinesis-data-firehose-integration)
